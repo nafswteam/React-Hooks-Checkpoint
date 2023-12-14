@@ -1,9 +1,16 @@
-# React + Vite
+# React Hooks Checkpoint
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Checkpoint Objective
 
-Currently, two official plugins are available:
+In this checkpoint, we are going to create a movie app where you can present your favorite movies or TV shows. We will also be able to use the react hooks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# React-Hooks-Checkpoint
+## Instructions
+
+1. Create the following components:
+   MovieCard
+   MovieList
+   Filter ( title, rate)
+1. Every movie should have the following attributes: title, description, posterURL, rating
+1. The user should be:
+   Able to add a new movie.
+   Filter the movies with title/rating.
